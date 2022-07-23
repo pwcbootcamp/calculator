@@ -31,6 +31,9 @@ class Program
                 case "divide":
                     Console.WriteLine(Divide(num1, num2));
                     break;
+                default:
+                    Console.WriteLine("Please Enter a valid operation");
+                    break;
             }
 
             Console.WriteLine("Do you want to perform another operation? (y/n)");
