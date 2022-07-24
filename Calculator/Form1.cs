@@ -82,22 +82,11 @@ namespace Calculator
            }
         }
 
-        private void btnDivision_Click(object sender, EventArgs e)
-        {
-            NumFirst = double.Parse(txtResult.Text);
-            operators = "/";
-            txtResult.Text = "";
-        }
+
 
         private void btnClearEnter_Click(object sender, EventArgs e)
         {
-            //txtResult.Text = "0";
-            //string FirstNum, SecondNum;
-            //FirstNum = Convert.ToString(NumFirst);
-            //SecondNum = Convert.ToString(NumSecond);
 
-            //FirstNum = "";
-            //SecondNum = "";
             if(txtResult.Text.Length > 0)
             {
                 txtResult.Text = txtResult.Text.Remove(txtResult.Text.Length - 1, 1);
@@ -105,6 +94,13 @@ namespace Calculator
             {
                 txtResult.Text = "0";
             }
+        }
+
+        private void btnDivide_Click(object sender, EventArgs e)
+        {
+            NumFirst = double.Parse(txtResult.Text);
+            operators = "/";
+            txtResult.Text = "";
         }
 
         private void btnAdd_Click(object sender, EventArgs e)

@@ -156,7 +156,7 @@
             this.btnDivide.TabIndex = 8;
             this.btnDivide.Text = "/";
             this.btnDivide.UseVisualStyleBackColor = true;
-            this.btnDivide.Click += new System.EventHandler(this.btnDivision_Click);
+            this.btnDivide.Click += new System.EventHandler(this.btnDivide_Click);
             // 
             // btnNum1
             // 
