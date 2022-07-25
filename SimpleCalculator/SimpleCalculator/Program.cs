@@ -37,35 +37,42 @@ namespace SimpleCalculator
         {
             Console.WriteLine("my calculator: enter two numbers and perform an action");
             Console.WriteLine("enter a number");
-            decimal num1 = Convert.ToDecimal(Console.ReadLine());
+            string input1 = Console.ReadLine();
             Console.WriteLine("enter an operator [+ , - , / or *]");
             string op = Console.ReadLine();
             Console.WriteLine("enter another number");
-            decimal num2 = Convert.ToDecimal(Console.ReadLine());
+            string input2 = (Console.ReadLine());
 
-            if (op == "+")
+            // decimal num1 = Convert.ToDecimal(input1);
+            if (decimal.TryParse(input1, out decimal num1) && decimal.TryParse(input2, out decimal num2))
             {
-                decimal answer = num1 + num2;
-                Console.WriteLine("The answer is {0}", answer);
-            }
-            else if (op == "-")
+                if (op == "+")
+                {
+                    decimal answer = num1 + num2;
+                    Console.WriteLine("The answer is {0}", answer);
+                }
+                else if (op == "-")
+                {
+                    decimal answer = num1 - num2;
+                    Console.WriteLine("The answer is {0}", answer);
+                }
+                else if (op == "*")
+                {
+                    decimal answer = num1 * num2;
+                    Console.WriteLine("The answer is {0}", answer);
+                }
+                else if (op == "/")
+                {
+                    decimal answer = num1 / num2;
+                    Console.WriteLine("The answer is {0}", answer);
+                }
+                else
+                {
+                    Console.WriteLine("enter a valid operator");
+                }
+            } else
             {
-                decimal answer = num1 - num2;
-                Console.WriteLine("The answer is {0}", answer);
-            }
-            else if (op == "*")
-            {
-                decimal answer = num1 * num2;
-                Console.WriteLine("The answer is {0}", answer);
-            }
-            else if (op == "/")
-            {
-                decimal answer = num1 / num2;
-                Console.WriteLine("The answer is {0}", answer);
-            }
-            else
-            {
-                Console.WriteLine("enter a valid operator");
+                Console.WriteLine("you have entered a wrong number");
             }
         }
     }
