@@ -1,0 +1,15 @@
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\bin\Debug\net6.0\firstPractice.exe
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\bin\Debug\net6.0\firstPractice.deps.json
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\bin\Debug\net6.0\firstPractice.runtimeconfig.json
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\bin\Debug\net6.0\firstPractice.dll
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\bin\Debug\net6.0\firstPractice.pdb
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.csproj.AssemblyReference.cache
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.AssemblyInfoInputs.cache
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.AssemblyInfo.cs
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.dll
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\refint\firstPractice.dll
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.pdb
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\firstPractice.genruntimeconfig.cache
+C:\Users\Jessica\Desktop\C# Trainings\firstPractice\firstPractice\obj\Debug\net6.0\ref\firstPractice.dll
