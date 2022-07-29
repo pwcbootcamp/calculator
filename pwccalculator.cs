@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace calc
 {
-    static class pwcCsharpAssignment1
+    static class pwccalculator
     {
         /// <summary>
         /// The main entry point for the application.

@@ -12,6 +12,7 @@ namespace calc
 {
     public partial class form1 : Form
     {
+        console.writeLine("PWC CALCULATOR")
         Double Result_Value = 0;
         String Operator_Performed = " ";
         bool PerformedOp = false;
