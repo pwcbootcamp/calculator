@@ -1,0 +1,15 @@
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\bin\Debug\net6.0\calculatorapp.exe
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\bin\Debug\net6.0\calculatorapp.deps.json
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\bin\Debug\net6.0\calculatorapp.runtimeconfig.json
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\bin\Debug\net6.0\calculatorapp.dll
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\bin\Debug\net6.0\calculatorapp.pdb
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.csproj.AssemblyReference.cache
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.AssemblyInfoInputs.cache
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.AssemblyInfo.cs
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.csproj.CoreCompileInputs.cache
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.dll
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\refint\calculatorapp.dll
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.pdb
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\calculatorapp.genruntimeconfig.cache
+C:\Users\kiwum\source\repos\calculatorapp\calculatorapp\obj\Debug\net6.0\ref\calculatorapp.dll
