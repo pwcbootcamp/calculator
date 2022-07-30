@@ -1,2 +1,0 @@
-# calculator
-C# calculator app

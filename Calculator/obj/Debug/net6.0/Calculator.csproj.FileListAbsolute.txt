@@ -1,0 +1,15 @@
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\FemiOlayode\OneDrive - Wragby Business Solutions & Technologies Limited\Documents\CSharp\Calculator\obj\Debug\net6.0\ref\Calculator.dll
